@@ -25,5 +25,5 @@ The image API has the following parameters:
 In order to use it in your projects, add the following to your README.md file:
 
 ```markdown
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 ```
