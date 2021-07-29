@@ -1,10 +1,16 @@
+# Check out the new website to create your own visitor badges
+
+
+[visitorbadge.io](https://www.visitorbadge.io/)
+
+
 # GitHub Visitors Badge
 
 Want to show how many visitors your profile/repository gets? With this simple visitors badge system, you can add it to your own profile page or repository.
 
 <p align="center">
   <a href="#">
-      <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A" />
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A" />
    </a>
 </p>
 
@@ -25,5 +31,5 @@ The image API has the following parameters:
 In order to use it in your projects, add the following to your README.md file:
 
 ```markdown
-![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 ```
