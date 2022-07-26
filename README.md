@@ -33,3 +33,29 @@ In order to use it in your projects, add the following to your README.md file:
 ```markdown
 ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 ```
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+
+You can customize left text (default is "VISITORS"):
+
+```markdown
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A&label=helloVisitors)
+```
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A&label=helloVisitors)
+
+Feel free to add a space between words in left text:
+
+```markdown
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A&label=thanks%20for%20visiting)
+```
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A&label=thanks%20for%20visiting)
+
+Change badge colors:
+
+```markdown
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&labelColor=%23313131&countColor=%23FFDD33&label=hi%20friends)
+```
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&labelColor=%23313131&countColor=%23FFDD33&label=hi%20friends)
