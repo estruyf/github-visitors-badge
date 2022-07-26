@@ -33,3 +33,5 @@ In order to use it in your projects, add the following to your README.md file:
 ```markdown
 ![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 ```
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
